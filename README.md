@@ -14,6 +14,8 @@
 
   ## Description
   To create a backend service of a market, this project was created.
+  
+  [Walkthrough Youtube Link](https://www.youtube.com/watch?v=turvT1Wf10E&ab_channel=DanKim)
 
   ## Installation
   Copy and clone to folder of your liking.
